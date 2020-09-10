@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'bulma/css/bulma.css';
+
+.searchmatch{
+    font-weight : bold;
+    background: yellow;
+    border-radius: 5px;
+    padding: 1px
+}
